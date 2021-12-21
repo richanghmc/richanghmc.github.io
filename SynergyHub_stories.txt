@@ -1,0 +1,23 @@
+Story 1
+
+"A task assignee inputs a time estimate for their own task"
+
+1. A user logs into to the system with a username and password.
+2. The user sees the tasks assigned to them from the list of tasks.
+3. There is a box next to each task that allows for the user to input an estimated time it will take for them to complete the task.
+4. The manager can see the time estimate in the task list. 
+
+
+Story 2
+
+"A task assignee can go to a page where they only see their own tasks."
+
+1. A user logs into the system with a username and password.
+2. The user sees their assigned tasks along with all the other assignees. 
+3. The user can click a button to see only their tasks.
+4. Once the button is pressed, they will see a list of only their tasks.
+
+Views
+- The task detail table with an additional column to input time.
+- "my tasks" button in the top menu
+- My tasks page
