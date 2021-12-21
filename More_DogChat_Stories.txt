@@ -1,0 +1,37 @@
+Story 1
+
+"A new dog signs up for DogChat" 
+
+1. A dog opens the app and sees a sign up button next to the login button.
+2. If the sign up button is pressed, the dog is given the option to input a new username and password.
+3. There is a create account button that can only be pressed when a username and password is inputted.
+4. Once the button is pressed, the account is created and the dog has successfully signed up for DogChat.
+
+
+Story 2
+"A dog becomes friends with another dog"
+
+1. A dog logs into the app, viewing the feed page. 
+2. In the menu on the top of the page, there is button that says add friend.
+3. Once the add friend button is clicked, a search bar pops up.
+4. The dog can input the username of another dog into the search bar, then press an 'add' button. 
+5. The other dog receiving the request will see the notification in the menu bar of their page that gives them the option to accept or decline the request.
+6. If accepted, the dogs are now friends and can view each other's posts.
+
+
+Story 3
+"A dog unfriends or blocks another dog"
+
+1. A dog logs into the app, viewing the feed page.
+2. The dog realizes they don't want to see another dog's posts anymore. 
+3. The dog can right click on the other dog's profile and a small drop down menu appears, with the option to view profile, unfriend, or block.
+4. If the unfriend button is pressed, the dog will no longer see posts from the other dog in their feed and the other dog is no longer on the dog's friend list.
+5. If the block button is pressed, the dog is no longer able to see the other dog's posts but the other dog is still on the dog's friend list.
+
+Views
+- Sign up page
+- Menu bar
+- Add friend page with search bar
+- Friend list page
+- Profile page
+- Drop down menu that with "view profile, block, unfriend"
