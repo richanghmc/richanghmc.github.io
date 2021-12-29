@@ -1,0 +1,52 @@
+Boba Buddy, a social media friend building app that matches an individual with another individual depending on boba order preferences and location. 
+
+Story 1
+
+A user views a login signup page. If the user doesn't have an account yet, they can create an account. creates an account with their email, phone number, and a password
+
+1. To create an account
+   - The user inputs their email.
+   - input a phone number.
+   - input a password. 
+2. After creating an account they return to the login page and can sign in. 
+
+
+Story 2
+
+The user creates their profile, inputting their preferences and location.
+
+1. A user logs into their account
+2. The user is prompted to complete their profile 
+   - Favorite drinks
+   - Favorite boba shops
+   - Images of the user
+   - Ice breaker questions
+3. The user is asked to allow the app to take their location
+
+Story 3
+
+The user views the main page with another user's profile displayed and the option to press an interested button or uninterested button. 
+
+1. A user logs into their account. 
+2. If the user has already set up their profile, they see another user's profile displayed in their main page.
+3. After the user demonstrates their interest in the other user, the next profile pops up.
+
+Story 4
+
+For users who show mutual interests in each other, they are allowed to chat with each other.
+
+1. A user logs into their account.
+2. The user presses the interest button on the profile they see.
+3. There is a mutual interest and the user is notified. 
+4. The user can go to their messages page and see the other user in their inbox.
+5. The user can send messages to the other user. 
+
+
+Views
+- Login page
+- Sign up page
+- Profile preferences page
+- Main page with other user profile displayed
+- Message inbox page
+- Messaging other user page.
+- Mutual match notification. 
